@@ -51,7 +51,8 @@ function fora_tudo(){
     circulo_five.style.background = '#000'
     circulo_six.style.background = '#f1c233'
     cor.innerText = ''
-    cor.style.color = '' 
+    cor.style.color = ''
+    circulo_six.style.color = '#000' 
 
 }
 
@@ -62,6 +63,7 @@ function entra1(){
     circulo_for.style.background = '#000'
     circulo_five.style.background = '#000'
     circulo_six.style.background = '#000'
+    circulo_six.style.color = '#999'
     
     
     
@@ -77,6 +79,7 @@ function entra3(){
     circulo_six.style.background = '#000'
     cor.innerText = 'PINK'
     cor.style.color = '#953764'
+    circulo_six.style.color = '#999'
 
 }
 
@@ -89,6 +92,7 @@ function entra4(){
     circulo_six.style.background = '#000'
     cor.innerText = 'BLUE'
     cor.style.color = '#2680eb'
+    circulo_six.style.color = '#999'
 
 }
 
@@ -102,6 +106,7 @@ function entra5(){
     circulo_six.style.background = '#000'   
     cor.innerText = 'YELLOW'
     cor.style.color = '#f1c233'
+    circulo_six.style.color = '#999'
 }
 
 
@@ -155,6 +160,7 @@ function entra7(){
     circulo_six_six.style.background = '#000'
     cor1.innerText = "ORANGE"
     cor1.style.color = '#de702f'
+    circulo_six_six.style.color = '#999'
 }
 
 function entra9(){
@@ -166,6 +172,7 @@ function entra9(){
     circulo_six_six.style.background = '#000'
     cor1.innerText = "PINK"
     cor1.style.color = '#953764'
+    circulo_six_six.style.color = '#999'
 }
 
 function entra10(){
@@ -177,6 +184,7 @@ function entra10(){
     circulo_six_six.style.background = '#000'
     cor1.innerText = "BLUE"
     cor1.style.color = '#2680eb'
+    circulo_six_six.style.color = '#999'
 }
 
 function entra11(){
@@ -188,6 +196,7 @@ function entra11(){
     circulo_six_six.style.background = '#000'
     cor1.innerText = "YELLOW"
     cor1.style.color = '#f1c233'
+    circulo_six_six.style.color = '#999'
 }
 
 
@@ -201,7 +210,8 @@ function fora_tudo1(){
     circulo_five_five.style.background = '#000'
     circulo_six_six.style.background = '#f1c233'
     cor1.innerText = ""
-    cor1.style.color = '' 
+    cor1.style.color = ''
+    circulo_six_six.style.color = '#000' 
 }
 
 function sai2(){
