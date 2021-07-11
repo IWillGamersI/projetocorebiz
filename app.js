@@ -63,6 +63,8 @@ function entra1(){
     circulo_for.style.background = '#000'
     circulo_five.style.background = '#000'
     circulo_six.style.background = '#000'
+    cor.innerText = 'ORANGE'
+    cor.style.color = '#de702f'
     circulo_six.style.color = '#999'
     
     
