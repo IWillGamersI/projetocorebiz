@@ -85,7 +85,6 @@ div#cor1{
     text-align: center;
     background: #b7b7b7;
     position: relative;
-    
 }
 .circulo2{
     width: 500px;
@@ -154,6 +153,8 @@ div#cor1{
     background-position-x: center;
     text-align: center;
     
+    
+    
 }
 .circulo8{
     width: 550px;
@@ -217,4 +218,5 @@ div#cor1{
     text-align: center;
     line-height: 110px;
     color: #000;
+    
 }
